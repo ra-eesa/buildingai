@@ -37,12 +37,12 @@ If you need to use links, here's an example:
 | Header      | Title       |
 | Paragraph   | Text        |
 ## Challenges
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This project will not solve 100% accuracy but it will definitely save a lot of time, energy and effort. The more information is given, the more specific the results will be/the references it can find in the document given. It won't be able to produce a report or notes for the lawyer/paralegal as each case would be different and tailored with other factors to consider. This would be a generic system that can generally help all cases which human input is the needed to decipher the results and information ready for the reports/notes to be formulated
+
 ## What next?
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+To improve this project, user interface features can be implemented. Make it more user-friendly by having a nice design and interface to easily navigate through as well as 'highlighting features, users being able to annotate, edit and correct the system if it makess a wrong reference for it to then learn from by its algorithm.'
+
 ## Acknowledgments
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* N/A
+
